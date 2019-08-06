@@ -2,7 +2,7 @@ package br.com.a5.APIAutocompleteSearch;
 
 import java.util.Scanner;
 
-import br.com.a5.APIAutocompleteSearch.controller.Conexao;
+import br.com.a5.APIAutocompleteSearch.model.Conexao;
 
 public class App {
 	public static void main(String[] args) {

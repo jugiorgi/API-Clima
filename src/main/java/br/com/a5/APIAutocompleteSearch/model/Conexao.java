@@ -1,4 +1,4 @@
-package br.com.a5.APIAutocompleteSearch.controller;
+package br.com.a5.APIAutocompleteSearch.model;
 
 import java.util.ArrayList;
 import java.util.List;
